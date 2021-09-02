@@ -5,6 +5,8 @@ const path = require("path");
 const allNotes = require("./db/db.json");
 const fs = require('fs');
 
+
+
 app.use(express.static('public'));
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
@@ -20,21 +22,50 @@ app.get('/notes', function(req, res) {
     res.sendFile(path.join(__dirname, './public/notes.html'));
 });
 
+
+
+
+
+
+
+// function NewNoteId(allNotes, ) = [] {
+
+// }
+// function addedNote ()
+// 'list-group-item'
+
+
 app.get('/api/notes', function(req, res) {
     res.json(allNotes);
 });
 
+
+
+
+
+
 app.post('/api/notes', function(req, res) {
 
+
+   
+
+    
+
     console.log(req.body);
-    console.log(allNotes);
+    // console.log(allNotes);
     allNotes.push(req.body);
-    console.log(allNotes);
+    // console.log(allNotes);
     
     fs.writeFile('./db/db.json', JSON.stringify(allNotes) , () => {
         res.json(allNotes)
     })
 });
+
+
+
+// app.delete('api/notes', function(req, res) {
+//     res
+// })
 
 
 // removing and updating
