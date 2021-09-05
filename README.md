@@ -29,12 +29,11 @@ Link
 ![](Readme-images/screenshot2.PNG) "inquirer prompting questions"
 ![](Readme-images/screenshot1.PNG) "Readme generated"
 
-[Click here to see a demo video](https://drive.google.com/file/d/1EkY0NhtOeCyj934PYp1nhqgi_yBgMbzD/view?usp=sharing)
+
 
 ## Usage
 
-You can use this generator to create a Readme for your repository!
-
+You can use this application to save notes for upcoming events and modify them as needed.
  
 ## License
 
@@ -44,7 +43,6 @@ You can use this generator to create a Readme for your repository!
 ## contribution
 
 Please send me an email if you can want to contribute or submit any suggestions: walterlaw19@gmail.com
-
 
 
 
