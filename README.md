@@ -21,13 +21,17 @@ An application to write and save notes using Express.js back end which retrieve 
 
 click here:
 
-Link
+Link: https://note-taker-for-beginners.herokuapp.com/
 
 
 ## Demo
 
-![](Readme-images/screenshot2.PNG) "inquirer prompting questions"
-![](Readme-images/screenshot1.PNG) "Readme generated"
+![](Readme-images/screenshot1.PNG) "type a note"
+![](Readme-images/screenshot2.PNG) "add a note"
+![](Readme-images/screenshot3.PNG) "review a note"
+![](Readme-images/screenshot4.PNG) "write a new note"
+![](Readme-images/screenshot5.PNG) "delete a note"
+
 
 
 
