@@ -1,19 +1,68 @@
-# Note-Taker
+# Note-Taker  
+[![License: Artistic-2.0](https://img.shields.io/badge/License-Perl-0298c3.svg)](https://opensource.org/licenses/Artistic-2.0)
+
+## Description
+An application to write and save notes using Express.js back end which retrieve note data from a JSON file. Enter a title and description for each note on the right column and save it to the right column.  You can click on each saved notes to review them and also delete them if necessary.
+
+
+[click here](sample-readme/sampleReadme.md)
+
+## Table of Contents
+
+* [Deployment](#deployment)
+* [Demo](#demo)
+* [Usage](#usage)
+* [License](#license)
+* [Contribution](#contribution)
+* [Questions](#questions)
+
+
+## Deployment
+
+click here:
+
+Link
+
+
+## Demo
+
+![](Readme-images/screenshot2.PNG) "inquirer prompting questions"
+![](Readme-images/screenshot1.PNG) "Readme generated"
+
+[Click here to see a demo video](https://drive.google.com/file/d/1EkY0NhtOeCyj934PYp1nhqgi_yBgMbzD/view?usp=sharing)
+
+## Usage
+
+You can use this generator to create a Readme for your repository!
+
+ 
+## License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
+## contribution
+
+Please send me an email if you can want to contribute or submit any suggestions: walterlaw19@gmail.com
 
 
 
 
+## Questions
 
-GIVEN a note-taking application
-<!-- WHEN I open the Note Taker
-THEN I am presented with a landing page with a link to a notes page -->
-<!-- WHEN I click on the link to the notes page
-THEN I am presented with a page with existing notes listed in the left-hand column, plus empty fields to enter a new note title and the note’s text in the right-hand column -->
-<!-- WHEN I enter a new note title and the note’s text
-THEN a Save icon appears in the navigation at the top of the page -->
-<!-- WHEN I click on the Save icon
-THEN the new note I have entered is saved and appears in the left-hand column with the other existing notes -->
-WHEN I click on an existing note in the list in the left-hand column
-THEN that note appears in the right-hand column
-WHEN I click on the Write icon in the navigation at the top of the page
-THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
+If you have any questions or concerns, you can reach me at: walterlaw19@gmail.com
+
+or visit my GitHub: https://github.com/walterlaw19
+
+
+
+```
+Made by by Walter G
+```
+
+---
+##### © 2021 WG.
+
+
+
+
